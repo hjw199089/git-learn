@@ -1,11 +1,13 @@
-本地新建了file3
+本地新建了f【dev】ile3
 (A修改了这一（B修改了）（这里比master修改了）file3A
 A添加了（这里比master分支添加了）这一行A修改了这一行
 A添加了这一行
 B添加（A修改了）
+【dev】
 B添加了这一行
 A添加了
-（这里比master添加了）
+（这里比mas【dev】ter添加了）
 第7行B添加了
-（这里比master添加了）
+（这里比mas【dev】ter添加了）
+【dev】 添加了
 
