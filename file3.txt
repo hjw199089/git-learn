@@ -5,3 +5,4 @@ master01
 madeA修改了vr01
 dev02
 B添加了冲突
+Creating a new branch is quick & simple.
